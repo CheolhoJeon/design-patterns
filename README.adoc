@@ -51,11 +51,6 @@ $ cd {project_name}
 * Factory Method Pattern
 
 
-== License
-
-* LICENSE: link:./LICENSE[{project_license}]
-
-
 == Contributors
 
 * Jeon Cheolho <woung2770@gmail.com>
