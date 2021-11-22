@@ -24,7 +24,7 @@ image:https://img.shields.io/badge/version-{revision}-blue.svg[link="./CHANGELOG
 Version {revision}
 
 * link:./CHANGELOG[History]
-* link:{git_service}{project_name}/wiki[Issues wiki] / link:{git_service}{project_name}/issues[Issues List]
+* link:{git_service}{project_name}/wiki[Wiki] / link:{git_service}{project_name}/issues[Issues List]
 
 
 == Building
