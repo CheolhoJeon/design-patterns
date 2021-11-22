@@ -48,7 +48,7 @@ $ cd {project_name}
 
 == Links
 
-* [Factory Method Pattern](https://github.com/CheolhoJeon/design-patterns/tree/main/app/src/main/kotlin/FactoryMethod)
+* link:https://github.com/CheolhoJeon/design-patterns/tree/main/app/src/main/kotlin/FactoryMethod[Factory Method Pattern]
 
 
 == Contributors
