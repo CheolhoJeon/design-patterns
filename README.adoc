@@ -46,9 +46,9 @@ $ cd {project_name}
 +
 
 
-== Patterns
+== Links
 
-* Factory Method Pattern
+* [Factory Method Pattern](https://github.com/CheolhoJeon/design-patterns/tree/main/app/src/main/kotlin/FactoryMethod)
 
 
 == Contributors
